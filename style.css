@@ -1,11 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .container {
   font-family: fira Code;
   text-align: center;
-  max-width: 300;
+  max-width: 700;
   margin: 0 auto;
   background-color: #183B59;
   padding: 20px;
-  border-radius: 10px;
+  height: 700px;
 }
 
 
